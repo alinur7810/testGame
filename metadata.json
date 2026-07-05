@@ -1,0 +1,6 @@
+{
+  "name": "Unity 2D Platformer Demo & C# Code Companion",
+  "description": "A playable Hollow Knight-inspired 2D vertical platformer with an interactive Unity Inspector and Live C# Script Viewer, powered by Gemini for custom Unity C# code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
